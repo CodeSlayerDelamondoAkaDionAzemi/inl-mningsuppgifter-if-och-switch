@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diaz09001\\Documents\\GitHub\\inl\u00E4mningsuppgifter if och switch\\Uppgift3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603369DF-090B-4789-BBA2-0137604EB804}|Uppgift3.3\\Uppgift3.3.csproj|c:\\users\\diaz09001\\documents\\github\\inl\u00E4mningsuppgifter if och switch\\uppgift3.3\\uppgift3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603369DF-090B-4789-BBA2-0137604EB804}|Uppgift3.3\\Uppgift3.3.csproj|solutionrelative:uppgift3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaz09001\\Documents\\GitHub\\inl\u00E4mningsuppgifter if och switch\\Uppgift3.3\\Uppgift3.3\\Program.cs",
+              "RelativeDocumentMoniker": "Uppgift3.3\\Program.cs",
+              "ToolTip": "C:\\Users\\diaz09001\\Documents\\GitHub\\inl\u00E4mningsuppgifter if och switch\\Uppgift3.3\\Uppgift3.3\\Program.cs",
+              "RelativeToolTip": "Uppgift3.3\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T08:00:29.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

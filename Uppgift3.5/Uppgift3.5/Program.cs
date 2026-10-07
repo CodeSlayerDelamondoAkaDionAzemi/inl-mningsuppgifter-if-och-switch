@@ -17,21 +17,23 @@ namespace Uppgift3._5
             string operation = Console.ReadLine();
 
             double summa = 0;
-            if (operation == "1")
+            switch (operation)
             {
-                summa = tal1 + tal2;
-            }
-            else if (operation == "2")
-            {
-                summa = tal1 - tal2;
-            }
-            else if (operation == "3")
-            {
-                summa = tal1 * tal2;
-            }
-            else if (operation == "4")
-            {
-                summa = tal1 / tal2;
+                case "1":
+                    summa = tal1 + tal2;
+                    break;
+                case "2":
+                    summa = tal1 - tal2;
+                    break;
+                case "3":
+                    summa = tal1 * tal2;
+                    break;
+                case "4":
+                    summa = tal1 / tal2;
+                    break;
+                default:
+                    Console.WriteLine("Ogiltigt räknesätt");
+                    break;
             }
             Console.WriteLine("Resultat: " + summa);
         }

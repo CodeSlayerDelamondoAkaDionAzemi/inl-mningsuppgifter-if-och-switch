@@ -13,3 +13,4 @@ C:\Users\diaz09001\Documents\GitHub\inlämningsuppgifter if och switch\Uppgift3.
 C:\Users\diaz09001\Documents\GitHub\inlämningsuppgifter if och switch\Uppgift3.5\Uppgift3.5\obj\Debug\net10.0\Uppgift3.5.genruntimeconfig.cache
 C:\Users\diaz09001\Documents\GitHub\inlämningsuppgifter if och switch\Uppgift3.5\Uppgift3.5\obj\Debug\net10.0\ref\Uppgift3.5.dll
 C:\Users\diaz09001\Documents\GitHub\inlämningsuppgifter if och switch\Uppgift3.5\Uppgift3.5\obj\Debug\net10.0\Uppgift3.5.csproj.Up2Date
+C:\Users\diaz09001\Documents\GitHub\inlämningsuppgifter if och switch\Uppgift3.5\Uppgift3.5\obj\Debug\net10.0\Uppgift3.5.sourcelink.json
